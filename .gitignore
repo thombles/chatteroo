@@ -1,0 +1,4 @@
+.idea
+target
+
+# NB this is an application, not a lib, so Cargo.lock shall be checked in to catch bugs
